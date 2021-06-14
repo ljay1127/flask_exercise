@@ -1,2 +1,2 @@
 # flask_exercise
-Flask practice for processing API requests and sorting
+Python Flask practice for processing API requests and sorting results
